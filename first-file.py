@@ -1,5 +1,5 @@
-This is my first file
+#This is my first file
 
 # This is the code
 
-prin
+print("Hello, Git World!")
